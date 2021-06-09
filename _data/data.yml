@@ -40,21 +40,19 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: 5G 통신망 트래픽 처리를 위한 100Gbps 고성능 IPS 개발
+      time: 2019.07 - Present
+      company: (주)Wins (Pangyo, Republic of Korea)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        차세대 제품군 개발 및 릴리즈
+        1. 멀티 스레드 환경에서 Cache Miss를 유발하는 코드에 대한 Refactoring
+        2. QoS 기능 성능 개선
+        3. Classifier... 를 뭐라고쓰지
+        4. OS 옵션값에 따른 성능 변화 분석
+        5. DPDK RSS Hash...
+        6. NUMA Memory Alloc...
+        7. 기타 성능 부하 포인트 분석 및 개선
+          - 관련 기술 : C, Python, DPDK, Linux, Vtune...
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
