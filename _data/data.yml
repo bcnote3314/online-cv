@@ -70,62 +70,15 @@ experiences:
         1. ㅁㅁㅁ
         2. ㅁㅁㅁ
         3. ㅁㅁㅁ
-          - Bullet point               
-    - role: ONE 3.0 제품화 TFT
-      time: ...
-      company: (주)Wins (Pangyo, Republic of Korea)
-      details: |
-        ONE 3.0 제품화
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
-    - role: User Recognition 기능 개발
-      time: ...
-      company: (주)Wins (Pangyo, Republic of Korea)
-      details: |
-        UR 기능 개발
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
-    - role: Application Recognition 기능 개발
-      time: ...
-      company: (주)Wins (Pangyo, Republic of Korea)
-      details: |
-        AR 기능 개발
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
-     - role: 로그 수집/통계 데이터 생성 프로세스 개선
-      time: ...
-      company: (주)Wins (Pangyo, Republic of Korea)
-      details: |
-        로그 개선
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
-    - role: ONE 제품군 정기 릴리즈 지원/고객사 대응
-      time: ...
-      company: (주)Wins (Pangyo, Republic of Korea)
-      details: |
-        로그 개선
-        1. ㅁㅁㅁ
-        2. ㅁㅁㅁ
-        3. ㅁㅁㅁ
-          - Bullet point
+          - Bullet point  
 projects:
     title: Side Projects
     intro: >
     assignments:
       - title: WUBU
         link: "#hook"
-        tagline: "우리 부자되자!"	
-      - title: 마음껏 시키게 나는 짜장면(마시짜)
-        link: "#hook"
-        tagline: "점심 뭐먹음?"	
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+		
 publications:
     title: Publications
     intro: |
