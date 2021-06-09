@@ -52,7 +52,6 @@ experiences:
         6. NUMA Memory Alloc...
         7. 기타 성능 부하 포인트 분석 및 개선
           - 관련 기술 : C, Python, DPDK, Linux, Vtune, 
-
     - role: NTT Docomo Replace 사업 TFT
       time: ...
       company: (주)Wins (Pangyo, Republic of Korea)
@@ -62,7 +61,6 @@ experiences:
         2. ㅁㅁㅁ
         3. ㅁㅁㅁ
           - Bullet point
-          
     - role: IPS 상태 체크 프로세스 개발
       time: ...
       company: (주)Wins (Pangyo, Republic of Korea)
@@ -71,8 +69,7 @@ experiences:
         1. ㅁㅁㅁ
         2. ㅁㅁㅁ
         3. ㅁㅁㅁ
-          - Bullet point          
-          
+          - Bullet point               
     - role: ONE 3.0 제품화 TFT
       time: ...
       company: (주)Wins (Pangyo, Republic of Korea)
@@ -82,7 +79,6 @@ experiences:
         2. ㅁㅁㅁ
         3. ㅁㅁㅁ
           - Bullet point
- 
     - role: User Recognition 기능 개발
       time: ...
       company: (주)Wins (Pangyo, Republic of Korea)
@@ -92,7 +88,6 @@ experiences:
         2. ㅁㅁㅁ
         3. ㅁㅁㅁ
           - Bullet point
- 
     - role: Application Recognition 기능 개발
       time: ...
       company: (주)Wins (Pangyo, Republic of Korea)
@@ -102,7 +97,6 @@ experiences:
         2. ㅁㅁㅁ
         3. ㅁㅁㅁ
           - Bullet point
- 
      - role: 로그 수집/통계 데이터 생성 프로세스 개선
       time: ...
       company: (주)Wins (Pangyo, Republic of Korea)
@@ -112,7 +106,6 @@ experiences:
         2. ㅁㅁㅁ
         3. ㅁㅁㅁ
           - Bullet point
- 
     - role: ONE 제품군 정기 릴리즈 지원/고객사 대응
       time: ...
       company: (주)Wins (Pangyo, Republic of Korea)
@@ -122,8 +115,6 @@ experiences:
         2. ㅁㅁㅁ
         3. ㅁㅁㅁ
           - Bullet point
-          
-          
 projects:
     title: Side Projects
     intro: >
