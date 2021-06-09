@@ -51,29 +51,70 @@ experiences:
         OS 옵션값에 따른 성능 변화 분석
         DPDK RSS Hash...
         NUMA Memory Alloc...
-        기타 성능 부하 포인트 분석 및 개선 |
+        기타 성능 부하 포인트 분석 및 개선 
 		- 관련 기술 : C, Python, DPDK, Linux, Vtune...
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: NTT Docomo Replace 사업 TFT
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        NTT Docomo IPS 대체 사업
+        ㅁㅁㅁ
+        ㅁㅁㅁ
+        ㅁㅁㅁ
+        - Bullet point
+    - role: IPS 상태 체크 프로세스 개발
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        snmp..
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
+          - Bullet point               
+    - role: ONE 3.0 제품화 TFT
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
+      details: |
+        ONE 3.0 제품화
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
           - Bullet point
+    - role: User Recognition 기능 개발
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
+      details: |
+        UR 기능 개발
+        ㅁㅁㅁ
+        ㅁㅁㅁ
+        ㅁㅁㅁ
+        Bullet point
+    - role: Application Recognition 기능 개발
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
+      details: |
+        AR 기능 개발
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
+          - Bullet point
+     - role: 로그 수집/통계 데이터 생성 프로세스 개선
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
+      details: |
+        로그 개선
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
+          - Bullet point
+    - role: ONE 제품군 정기 릴리즈 지원/고객사 대응
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
+      details: |
+        로그 개선
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
           - Bullet point
 projects:
     title: Projects
