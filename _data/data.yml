@@ -41,7 +41,7 @@ education:
           - Bullet point
 experiences:
     - role: 5G 통신망 트래픽 처리를 위한 100Gbps 고성능 IPS 개발
-      time: 2019.07 - Present
+      time: 2019.07 - Current
       company: (주)Wins (Pangyo, Republic of Korea)
       details: |
         차세대 제품군 개발 및 릴리즈
@@ -126,27 +126,6 @@ projects:
       - title: 마음껏 시키게 나는 짜장면!
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
