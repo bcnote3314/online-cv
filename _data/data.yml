@@ -53,16 +53,14 @@ experiences:
         6. NUMA Memory Alloc...
         7. 기타 성능 부하 포인트 분석 및 개선
           - 관련 기술 : C, Python, DPDK, Linux, Vtune...
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: NTT Docomo Replace 사업 TFT
+      time: ...
+      company: (주)Wins (Pangyo, Republic of Korea)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
+        NTT Docomo IPS 대체 사업
+        1. ㅁㅁㅁ
+        2. ㅁㅁㅁ
+        3. ㅁㅁㅁ
           - Bullet point
     - role: UI Developer
       time: 2012 - 2014
@@ -76,32 +74,13 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Side Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: WUBU
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+		
 publications:
     title: Publications
     intro: |
