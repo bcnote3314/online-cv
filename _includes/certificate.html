@@ -1,7 +1,7 @@
 {% assign certificate = site.data.data.certificate %}
 {% if certificate %}
   {% if site.data.data.sidebar.certificate %}
-  <div class="certificate-container container-block">
+  <div class="education-container container-block">
 
     <h2 class="container-block-title">
       Certificate
@@ -9,9 +9,9 @@
 
     {% for certi in certificate %}
     <div class="item">
-      <h4 class="name">{{ certi.name }}</h4>
-      <h5 class="agency">{{ certi.agency }}</h5>
-      <div class="date">{{ certi.date }}</div>
+      <h4 class="degree">{{ certi.name }}</h4>
+      <h5 class="meta">{{ certi.agency }}</h5>
+      <div class="time">{{ certi.date }}</div>
     </div><!--//item-->
     {% endfor %}
 
