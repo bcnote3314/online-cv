@@ -39,6 +39,14 @@ education:
         명지대학교 컴퓨터공학과 학사, 학점 4.1/4.5 
           - Bullet point
           - Bullet point
+certificate:
+    - name: 정보처리기사
+      agency: 한국산업인력공단
+      date: 20...
+    - name: SQLD(SQL 개발자)
+      agency: 한국데이터산업진흥원
+      date: 20
+      
 experiences:
     - role: 5G 통신망 트래픽 처리를 위한 100Gbps 고성능 IPS 개발
       time: 2019.07 - Current
